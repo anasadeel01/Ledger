@@ -32,7 +32,7 @@ The application demonstrates an end-to-end machine learning workflow — from da
 
 ##  LIVE DEMO
 
- https://anasadeel01.pythonanywhere.com/
+ (https://ledger-credit-decision.anasadeel-02.workers.dev/)
 
 ## ⚙️ INSTALLATION
 
